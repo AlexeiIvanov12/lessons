@@ -7,7 +7,7 @@ public class FinalKeyword {
         System.out.println(MY_INTEGER);
 
         final double PI = 3.14; // final делает переменную неизменяемой
-        System.out.println("Pi =" +PI);
+//        System.out.println("Pi =" +PI);
 
         System.out.println("Hello world!");
 
