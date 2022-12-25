@@ -1,0 +1,4 @@
+Hello, world!
+Hello, Java!
+Hello, Alexei!
+it is new contentit is new content
